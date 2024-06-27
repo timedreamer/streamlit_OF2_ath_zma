@@ -14,3 +14,5 @@ Here is the details about how the orthology table was generated.
 
 
 The `ortholog_search.py` is a command line python script.
+
+I also have a similar Shiny app at https://github.com/timedreamer/ShinyOrtholog.
